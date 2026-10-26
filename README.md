@@ -13,7 +13,7 @@ My strongest professional advantage is **technical risk-solving**: identifying d
 ## At a Glance
 
 - **Software engineering:** Professional IT experience since 2009
-- **Core technologies:** C/C++, Qt/QML, Objective-C, Python, mobile and enterprise applications
+- **Core technologies:** C/C++, Qt/QML, JAVA/Kotlin, Objective-C/Swift, Python, mobile and enterprise applications
 - **AI and perception:** OpenPose, OpenCV, pose estimation, image/video processing, AI-integrated applications
 - **CAD and simulation:** 5 years of SolidWorks; ANSYS Fluent CFD; COSMOS structural analysis
 - **System integration:** Mobile software, Bluetooth communication, low-level devices, real-time data visualization, machine-related workflows
@@ -23,7 +23,7 @@ My strongest professional advantage is **technical risk-solving**: identifying d
 
 | Area | Experience |
 |---|---|
-| **Software engineering** | C/C++, Qt/QML, Objective-C, Python, application architecture, algorithms and real-time processing |
+| **Software engineering** | C/C++, Qt/QML, JAVA/Kotlin, Objective-C/Swift, Python, application architecture, algorithms and real-time processing |
 | **AI & computer vision** | OpenPose, OpenCV, pose estimation, image/video processing and AI-integrated applications |
 | **CAD & engineering analysis** | SolidWorks modeling and design, ANSYS Fluent CFD, COSMOS structural analysis |
 | **Machine/software integration** | Bluetooth-connected device workflows, high-volume machine-status visualization, software supporting operational equipment |
@@ -44,7 +44,7 @@ My strongest professional advantage is **technical risk-solving**: identifying d
 | 🚨 **Emergency System — Australia** | 2015 | Software Developer | Worked on a multi-platform system with web administration and Android/iOS client applications |
 | 🚌 **Bus Route Management System** | 2015 | Software Developer | Developed a route-management application using Vue.js, Ruby on Rails and MongoDB |
 | 📹 **Real-Time Video/Audio Application** | 2014 | Mobile / Real-Time Developer | Worked on mobile audio/video communication and reliable recording-data persistence when communication ended |
-| 🎮 **Flash Game Porting to Mobile** | 2012–2013 | Mobile Game Developer | Ported Flash-game experience to mobile platforms and developed hands-on C/C++ and Objective-C skills |
+| 🎮 **Flash Game Porting to Mobile** | 2012–2013 | Mobile Game Developer | Ported Flash-game experience to mobile platforms and developed hands-on C/C++ and JAVA/Kotlin, Objective-C/Swift skills |
 | 📐 **CAD & Engineering Simulation** | — | CAD / Simulation Practitioner | Five years of SolidWorks experience, including ship-model design, with CFD analysis in ANSYS Fluent and structural analysis in COSMOS |
 
 ---
